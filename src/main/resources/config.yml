@@ -1,0 +1,2 @@
+exempt-ops: true # if to exempt players with operator status from the VPN/Proxy check
+ban-all-cached: true # if to ban players on all of the IP addresses they were seen joining the server with

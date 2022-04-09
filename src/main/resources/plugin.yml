@@ -1,0 +1,8 @@
+name: AntiVPN
+main: me.sxmurai.antivpn.Main
+version: 1.0
+
+commands:
+  cachedips:
+    description: Tells you all of the ips a player has joined on
+    usage: /cachedips <player username>
